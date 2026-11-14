@@ -16,7 +16,7 @@ Gunakan alur Dev Container.
 
 **Penting**: Jalankan notebook **berurutan dari 00 sampai 06**. Setiap notebook membangun di atas yang sebelumnya.
 
-## Yang akan dipelajari mahasiswa
+## Yang akan dipelajari 
 
 - Memuat dan memeriksa dataset (NB 01)
 - Mengidentifikasi dan membersihkan masalah data (NB 02)
